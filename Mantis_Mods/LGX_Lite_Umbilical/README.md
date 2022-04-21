@@ -9,8 +9,10 @@
 
 CURRENTLY ONLY COMPATIBLE WITH THIS COMBINATION OF MODS:
 
-EUCLID MGN12H X-CARRIAGE
-SENSORISED HOTEND-CARRIAGE
+[EUCLID MGN12H X-CARRIAGE](https://github.com/Minsekt/moronvods/tree/main/Mantis_Mods/MGN12H_Native_Euclid)
+
+[SENSORISED HOTEND-CARRIAGE](https://github.com/Minsekt/moronvods/tree/main/Mantis_Mods/Dragon_Sensorised_Carriage)
+
 LGX LITE EXTRUDER
 
 ![](https://github.com/Minsekt/moronvods/blob/main/Mantis_Mods/LGX_Lite_Umbilical/images/IMG_8925.jpg)
