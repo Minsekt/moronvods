@@ -1,8 +1,7 @@
 # Dual 4010 "Mantis" with Stealthburner-like LEDs.
 
-working fine, however didnt have enough time to design a proper front cover. 
+used this for about 600hours+ with no issues.
 
-if youre interested in this hit me up in Discord Vesh#2559
 
 ![1](https://github.com/Minsekt/moronvods/blob/main/Dual_4010_SB_LEDS/IMG_7743.jpg)
 ![1](https://github.com/Minsekt/moronvods/blob/main/Dual_4010_SB_LEDS/2022-04-16T22_54_11.png)
